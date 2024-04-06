@@ -1,0 +1,10 @@
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\bin\Debug\CUEPORPAGAR.exe.config
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\bin\Debug\CUEPORPAGAR.exe
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\bin\Debug\CUEPORPAGAR.pdb
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\obj\Debug\CUEPORPAGAR.csproj.AssemblyReference.cache
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\obj\Debug\CUEPORPAGAR.Form1.resources
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\obj\Debug\CUEPORPAGAR.Properties.Resources.resources
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\obj\Debug\CUEPORPAGAR.csproj.GenerateResource.cache
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\obj\Debug\CUEPORPAGAR.csproj.CoreCompileInputs.cache
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\obj\Debug\CUEPORPAGAR.exe
+C:\Users\Marisol\source\repos\CUEPORPAGAR\CUEPORPAGAR\obj\Debug\CUEPORPAGAR.pdb
